@@ -29,30 +29,29 @@ export default function Home() {
 				quantity={100}
 			/>
 			<h1 className="z-10 text-4xl text-transparent duration-1000 bg-white cursor-default text-edge-outline animate-title font-display sm:text-6xl md:text-9xl whitespace-nowrap bg-clip-text ">
-				chronark
+				Portifolio
 			</h1>
 
 			<div className="hidden w-screen h-px animate-glow md:block animate-fade-right bg-gradient-to-r from-zinc-300/0 via-zinc-300/50 to-zinc-300/0" />
 			<div className="my-16 text-center animate-fade-in">
 				<h2 className="text-sm text-zinc-500 mx-6">
-					Hi, my name is Andreas, I'm building serverless and open source
-					solutions at{" "}
+				Hello, my name is Mikael, I am a Full Stack Developer and I contribute to the development of software for the web at{" "}
 					<Link
 						target="_blank"
-						href="https://upstash.com"
+						href="https://www.sobral.ce.gov.br"
 						className="underline duration-500 hover:text-zinc-300"
 					>
-						Upstash
+						Sobral City Hall
 					</Link>
 
 					
 					<wbr /> and working on{" "}
 					<Link
 						target="_blank"
-						href="https://unkey.dev"
+						href="https://visiansystems.com"
 						className="underline duration-500 hover:text-zinc-300"
 					>
-						unkey.dev
+						Visian Systems
 					</Link>{" "}
 					at night.
 				</h2>
